@@ -23,7 +23,7 @@ To run this project, you will dont need to add any environment variables
 Clone the project
 
 ```bash
-  git clone https://github.com/Niteshgupta-NITK/E-commerce-App
+  git clone https://github.com/Niteshgupta-NITK/Interlinguistic-Chat-App
 ```
 
 Go to the project directory and install dependencies
