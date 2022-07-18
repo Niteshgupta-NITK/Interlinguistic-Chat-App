@@ -11,42 +11,11 @@ A chating platform where users from different linguistic groups can chat with ea
 
 ## Tech Stack
 
-**Server:** Node, Express, MongoDB
+**Server:** Javascript, Html, CSS, NodeJS, SocketIO
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`DB_URL` - MongoDB url either cloud or localhost for your database
-
-`JWT_SECRET` - Jwt secret token 
-
-`JWT_EXPIRY` -Jwt Token expiry days write as `xd` for token to expire in x days
-
-`COOKIE_TIME` - Time to expire the cookie stored write number x for x days
-
-`CLOUDINARY_NAME`- Cloudinary Cloud Name
-
-`CLOUDINARY_API_KEY`- Cloudinary API key
-
-`CLOUDINARY_API_SECRET`- Cloudinary  API Secret  string
-
-`SMTP_HOST`- SMTP Host (smtp.mailtrap.io)
-
-`SMTP_PORT`- SMTP Port (2525)
-
-`SMTP_USER`- SMTP Username
-
-`SMTP-PASS`- SMTP Password
-
-`STRIPE_API_KEY`- Stripe API key
-
-`STRIPE_SECRET`- Stripe Secret string
-
-`RAZORPAY_API_KEY`- Razorpay API key
-
-`RAZORPAY_SECRET`- Razorpay Secret String
-
+To run this project, you will dont need to add any environment variables 
 
 
 ## Run Locally
@@ -60,7 +29,7 @@ Clone the project
 Go to the project directory and install dependencies
 
 ```bash
-  cd E-commerce-App
+  cd Interlinguistic Chat-App
   npm install
 ```
 
@@ -72,6 +41,12 @@ Start the server
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/56041569/179568648-10881054-1fa9-4a79-8058-2654cf3a3bb2.png)
 ![image](https://user-images.githubusercontent.com/56041569/179568720-8494d391-450b-4d1a-9115-37e1112db872.png)
+![image](https://user-images.githubusercontent.com/56041569/179568882-59c511fe-6cf2-4d32-b666-d63d13fcc1f8.png)
+![image](https://user-images.githubusercontent.com/56041569/179568958-fe943f73-5a35-47bb-8c3f-488b0ff9d635.png)
+![image](https://user-images.githubusercontent.com/56041569/179569003-cb35c888-b648-4dbe-83aa-a5080d21926f.png)
+
+
+
 
 
 
