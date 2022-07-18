@@ -29,7 +29,7 @@ Clone the project
 Go to the project directory and install dependencies
 
 ```bash
-  cd Interlinguistic Chat-App
+  cd InterLinguistic_chat_app
   npm install
 ```
 
