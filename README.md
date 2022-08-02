@@ -11,7 +11,9 @@ A chating platform where users from different linguistic groups can chat with ea
 
 ## Tech Stack
 
+```bash
  Javascript, Html, CSS, NodeJS, SocketIO , MomentJs, BadWords, Weglot API, Qs, Mustache
+``` 
 
 ## Environment Variables
 
